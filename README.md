@@ -24,20 +24,20 @@ TRACKIUM ensures easy and accurate tracking and plays an integral part in the am
 
 <table>
      <tr>
-          <td><img height="500" src="https://github.com/lakshmi-warrier/ambulance-tracker/blob/main/screenshots/SignUp_page.jpg" /><br /><center><b>Sign-Up Screen</b></center></td>
-          <td><img height="500" src="https://github.com/lakshmi-warrier/ambulance-tracker/blob/main/screenshots/Login_page.jpg" /><br /><center><b>Login Screen</b></center></td>
-          <td><img height="500" src="https://github.com/lakshmi-warrier/ambulance-tracker/blob/main/screenshots/Role_Page.jpg" /><br /><center><b>Role Screen</b></center></td>
+          <td><img height="500" src="https://github.com/alfia-warrier/ambulance-tracker/blob/main/screenshots/SignUp_page.jpg" /><br /><center><b>Sign-Up Screen</b></center></td>
+          <td><img height="500" src="https://github.com/alfia-warrier/ambulance-tracker/blob/main/screenshots/Login_page.jpg" /><br /><center><b>Login Screen</b></center></td>
+          <td><img height="500" src="https://github.com/alfia-warrier/ambulance-tracker/blob/main/screenshots/Role_Page.jpg" /><br /><center><b>Role Screen</b></center></td>
      </tr>
      <tr>
-          <td><img height="500" src="https://github.com/lakshmi-warrier/ambulance-tracker/blob/main/screenshots/Patients_page.gif" /><br /><center><b>Patients Screen</b></center></td>
-          <td><img height="500" src="https://github.com/lakshmi-warrier/ambulance-tracker/blob/main/screenshots/Hospital_page_1.gif" /><br /><center><b>Hospital Screen</b></center></td>
-          <td><img height="500" src="https://github.com/lakshmi-warrier/ambulance-tracker/blob/main/screenshots/driver_page.gif" /><br /><center><b>Drivers Screen</b></center></td>
+          <td><img height="500" src="https://github.com/alfia-warrier/ambulance-tracker/blob/main/screenshots/Patients_page.gif" /><br /><center><b>Patients Screen</b></center></td>
+          <td><img height="500" src="https://github.com/alfia-warrier/ambulance-tracker/blob/main/screenshots/Hospital_page_1.gif" /><br /><center><b>Hospital Screen</b></center></td>
+          <td><img height="500" src="https://github.com/alfia-warrier/ambulance-tracker/blob/main/screenshots/driver_page.gif" /><br /><center><b>Drivers Screen</b></center></td>
      </tr>
 
 </table>
  
 ## 🛠️ Building the Code
-- Clone the repository using HTTP : git clone https://github.com/lakshmi-warrier/ambulance-tracker.git
+- Clone the repository using HTTP : git clone https://github.com/ALFIA786/Ambulance_Tracking_System/
 - Open your code editor (VS Code, Android Studio etc)
 - Click on 'Open an Existing Project'
 - Browse to the directory where you cloned the repo and click OK
